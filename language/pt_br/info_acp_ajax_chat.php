@@ -103,6 +103,7 @@ $lang = array_merge(
 		'TRUNCATE_NOW'								=> 'Deletar Agora',
 		'TRUNCATE_NOW_EXPLAIN'						=> 'Deleta todas as mensagens do chat da tabela do banco de dados.',
 		'CONFIRM_TRUNCATE_AJAXCHAT'					=> 'Confirme se realmente deseja deletar o banco de dados do chat.',
+		'TRUNCATE_LOG_AJAXCHAT'						=> 'Deletar tabela do chat',
 		'TRUNCATE_CHAT_SUCCESS'						=> 'Tabela do Chat deletada',
 		'CHAT_COUNTER'								=> 'Número de mensagens do chat no banco de dados',
 		'ROLE_MOD_CHAT'								=> 'Moderador do Ajax Chat',
